@@ -31,7 +31,7 @@
       <li>Wearable Sensors for Joint Monitoring</li>
       <li>Soft Robotics for Rehabilitation</li>
       <li>AI & Machine Learning in Biomechanics</li>
-      <li>Cadaveric Testing and Surgical Innovation</li>
+      <li> Surgical Innovation</li>
     </ul>
   </section>
 
