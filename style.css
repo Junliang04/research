@@ -43,6 +43,27 @@ nav a:hover {
   text-decoration: underline;
 }
 
+.featured-gallery {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.featured-item {
+  flex: 1 1 300px;
+  text-align: center;
+}
+
+.featured-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+
 section {
   padding: 2rem;
   background: white;
